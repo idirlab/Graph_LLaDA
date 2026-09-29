@@ -1,0 +1,18 @@
+# Core ML dependencies
+torch>=2.0.0
+torch-geometric>=2.5.0
+transformers>=4.38.0
+
+# Training and data
+accelerate>=1.0.0
+datasets>=4.0.0
+peft>=0.11.0,<0.12.0
+
+# Model I/O
+safetensors>=0.7.0
+
+# Utilities
+tqdm>=4.60.0
+
+# Development
+pytest>=7.0.0

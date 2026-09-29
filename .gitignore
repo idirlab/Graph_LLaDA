@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Training artifacts
+wandb/
+outputs/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Data (downloaded datasets)
+data/
+*.csv
+*.jsonl
+*.parquet
+*.png
+!configs/*.yaml
+*.txt
+!requirements.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reference repos (cloned separately, not tracked)
+references/LLaDA-V/
+references/LLaDA/
+references/GraphGPT/
+.claude/*
+experiments/sft_webnlg/output/*
+!results/LLaDA-8B-Instruct_lora_epoch_5__en_test_gl64_20260225_183020_*.jsonl
+!experiments/alpha_scaling/results/*.jsonl
+experiments/alpha_scaling/results/LLaDA-8B-Instruct_lora_epoch_5__en_test_gl64_*_20260302_220003_fixed.jsonl
+!graph_llada/data
