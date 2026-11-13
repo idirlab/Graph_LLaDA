@@ -14,4 +14,9 @@ abstract
 
 ## Dataset
 
+We use **WebNLG** and **LAGRANGE** for graph-to-text generation, where the goal is to generate natural-language descriptions from knowledge graph triples.
+
+- **WebNLG**: Our primary dataset for graph-to-text experiments and generation trajectory analysis.
+- **LAGRANGE**: Used for cross-dataset evaluation to assess how well models generalize beyond WebNLG.
+
 requirements
