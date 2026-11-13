@@ -1,10 +1,10 @@
 # What Gets Unmasked First? Trajectory Analysis of Diffusion Models for Graph-to-Text Generation
 
-**To appear in emnlp 2026 findings**
+**Accepted to Findings of EMNLP 2026**
 
 
 
-[Qing Wang](https://arxiv.org/search/cs?searchtype=author\&query=Wang,+Q), [Jacob Devasier](https://arxiv.org/search/cs?searchtype=author\&query=Devasier,+J), [Chengkai Li](https://arxiv.org/search/cs?searchtype=author\&query=Li,+C)
+[Qing Wang](https://scholar.google.com/citations?user=TYo5kK4AAAAJ&hl=en), [Jacob Devasier](https://scholar.google.com/citations?user=hQvkzsQAAAAJ&hl=en&oi=sra), [Chengkai Li](https://scholar.google.com/citations?hl=en&user=v8ZQDf8AAAAJ)
 
 [[Paper]](https://arxiv.org/abs/2605.31564)
 
